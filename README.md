@@ -4,7 +4,7 @@
   <a href="https://github.com/bruninhaout">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruninhaout&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruninhaout&layout=compact&langs_count=7&theme=nord"/>
- <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
+  <!--<a href="https://github.com/bruninhaout">
   <img height="154em" src="https://github-readme-stats.vercel.app/api/wakatime?username=bruninhaout&layout=compact&langs_count=7&theme=nord"/> -->
 
   
