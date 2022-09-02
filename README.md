@@ -17,7 +17,7 @@
   <img align="center" alt="Bru-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Bru-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Bru-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img width="25%" align="right" alt="Bru-img" src="https://64.media.tumblr.com/210a5dfd41b9f4bfb1f12a4b30f1145b/tumblr_p2mmem8Eos1vujfmbo1_500.gifv">
+  <img width="25%" align="right" alt="Bru-img" src="https://c.tenor.com/Xgzgtf3WR2IAAAAd/spy-x-family-anya-forger.gif">
   
 </div>
   
