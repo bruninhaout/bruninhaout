@@ -17,7 +17,7 @@
   <img align="center" alt="Bru-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Bru-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Bru-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img width="5%" align="right" alt="Bru-img" src="https://64.media.tumblr.com/c2ed5416a2d8e57ecd561ddd9117927b/5381e187794a270405/s640x960/86d7f1bd5852ea6de8c0a2126a366fabc4ec6758.gifv">
+  <img width="25%" align="right" alt="Bru-img" src="https://64.media.tumblr.com/c2ed5416a2d8e57ecd561ddd9117927b/5381e187794a270405/s640x960/86d7f1bd5852ea6de8c0a2126a366fabc4ec6758.gifv">
   
 </div>
   
