@@ -17,7 +17,7 @@
   <img align="center" alt="Bru-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Bru-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
   <img align="center" alt="Bru-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img width="25%" align="right" alt="Bru-img" src="https://mystickermania.com/cdn/stickers/anime/spy-family-anya-peace-512x512.png">
+  <img width="15%" align="right" alt="Bru-img" src="https://mystickermania.com/cdn/stickers/anime/spy-family-anya-peace-512x512.png">
   
 </div>
   
