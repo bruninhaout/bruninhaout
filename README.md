@@ -1,6 +1,9 @@
-
+ <img width=86% src="https://capsule-render.vercel.app/api?type=waving&color=859fc2&height=120&section=header"/>
 
  <div>
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=5010&pause=960&color=60F7B9&center=true&vCenter=true&random=false&width=435&lines=Hello+World%2C+I'm+Bruna!;I'm+study+Engineering+Computer)](https://git.io/typing-svg)
+  
   <a href="https://github.com/bruninhaout">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruninhaout&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruninhaout&layout=compact&langs_count=7&theme=nord"/>
